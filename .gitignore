@@ -1,0 +1,11 @@
+# Build artifacts (c/)
+*.o
+c/cdc-acm
+c/hid-keyboard
+c/hid-mouse
+c/hid-triton
+c/test_triton_report
+
+# Python
+__pycache__/
+*.pyc
